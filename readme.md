@@ -4,18 +4,21 @@
 
 ### Sobre mim:
 Me chamo **Lucas Roseno**, tenho 20 anos, atualmente cursando **Engenharia da Computação no CEFET - Divinópolis** e tenho grande interesse nas áreas de **IA, banco de dados, Python**.  
+
 - 🌍 Divinópolis - MG  
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-roseno-9b417b338/) | [E-mail](mailto:lucasroseno759@gmail.com)  
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Roseno&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Roseno&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Roseno&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Roseno&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
+
+<br>
 
 [![GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Roseno&bg_color=0d1117&color=00bfbf&line=00ffbf&point=00ffbf&area=true&hide_border=true)](https://github.com/Lucas-Roseno)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-Roseno&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-Roseno&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 <div align="center">  
