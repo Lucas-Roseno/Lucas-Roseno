@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+ROSENO;;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ### Sobre mim:
-Me chamo **Lucas Roseno**, tenho 20 anos, atualmente cursando **Engenharia da Computação no CEFET - Divinópolis** e tenho grande interesse nas áreas de **IA, banco de dados, Python**.  
+Me chamo **Lucas Roseno**, tenho 20 anos, atualmente cursando **Engenharia da Computação no CEFET - Divinópolis** e tenho grande interesse nas áreas de **IA, Banco de Dados e Arquitetura Full-Stack**.  
 
 - 🌍 Divinópolis - MG  
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-roseno-9b417b338/) | [E-mail](mailto:lucasroseno759@gmail.com)  
@@ -26,21 +26,25 @@ Me chamo **Lucas Roseno**, tenho 20 anos, atualmente cursando **Engenharia da Co
 </div>  
 
 ### Main skills:
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)&nbsp;
 
 ### Frameworks & Tools:
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
