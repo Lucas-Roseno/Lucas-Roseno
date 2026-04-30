@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+ROSENO;;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUCAS+ROSENO;;Welcome!+:%29)](https://git.io/typing-svg)
 
-### Sobre mim:
-Me chamo **Lucas Roseno**, tenho 20 anos, atualmente cursando **Engenharia da Computação no CEFET - Divinópolis** e tenho grande interesse nas áreas de **IA, Banco de Dados e Arquitetura Full-Stack**.  
+### About me:
+My name is **Lucas Roseno**, I'm 20 years old, currently pursuing **Computer Engineering at CEFET - Divinópolis**, and I have a great interest in the areas of **AI, Databases, and Full-Stack Architecture**.  
 
-- 🌍 Divinópolis - MG  
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-roseno-9b417b338/) | [E-mail](mailto:lucasroseno759@gmail.com)  
+- 🌍 Divinópolis - MG, Brazil  
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lucas-roseno-9b417b338/) | [E-mail](mailto:lucasroseno759@gmail.com)  
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Roseno&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github stats"/> 
@@ -23,7 +23,7 @@ Me chamo **Lucas Roseno**, tenho 20 anos, atualmente cursando **Engenharia da Co
 
 <div align="center">  
 <a href="https://www.instagram.com/lucas_roseno__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>  
+</div>   
 
 ### Main skills:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)&nbsp;
